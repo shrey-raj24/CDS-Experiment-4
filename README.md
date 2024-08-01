@@ -33,3 +33,5 @@ cout<<"Complement of b is: "<<(y=~b)<<"\n";
 return 0;
 }
 ```
+output:<br>
+![exp4](
