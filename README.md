@@ -34,5 +34,5 @@ return 0;
 }
 ```
 output:<br>
-![exp4](https://github.com/shrey-raj24/CDS-Experiment-4/blob/main/fourth.png)
+![exp4](https://github.com/shrey-raj24/CDS-Experiment-4/blob/main/fourth.png) <br>
 Conclusion -> I learnt about bitwise operators.
